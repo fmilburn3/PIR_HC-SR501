@@ -12,10 +12,10 @@
  takes IR (heat) images on 2 sensors at different times.  When
  they differ something has changed and the sensor sends a HIGH digital
  signal to the microcontroller.  The HC-SR501 has two potentiometers
- for adjusting sensitivity and time delay (see attached JPG file). 
- My specimen seemed very  sensitive to these settings. Note that
- it will normally  take 10 - 60 seconds for the device to warm
- up and readings may be spurious during this period.
+ for adjusting sensitivity and time delay. My specimen seemed very
+ sensitive to these settings. Note that it will normally  take
+ 10 - 60 seconds for the device to warm up and readings may be spurious
+ during this period.
  
  Pin and wiring connections
  --------------------------
