@@ -1,2 +1,2 @@
 # PIR_HC-SR501
- PIR motion sensor example
+ PIR motion sensor example for Energia
